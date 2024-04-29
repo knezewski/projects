@@ -19,3 +19,7 @@ Corporate information system - https://github.com/knezewski/NodeProject
 ### AWS projects:
 Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI,<br />
 URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
+
+### Python projects:
+KinderLogger App - https://github.com/knezewski/kinderLogger
+
