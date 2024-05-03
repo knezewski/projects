@@ -23,3 +23,6 @@ URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShorten
 ### Python projects:
 KinderLogger App - https://github.com/knezewski/kinderLogger
 
+### Go projects:
+Health checker https://github.com/knezewski/healthChecker
+
