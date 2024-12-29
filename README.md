@@ -24,6 +24,6 @@ URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShorten
 KinderLogger App - https://github.com/knezewski/kinderLogger
 
 ### Go projects:
-Health checker https://github.com/knezewski/healthChecker
+Health checker https://github.com/knezewski/healthChecker,<br />
 URL shortener https://github.com/knezewski/url_shortener
 
