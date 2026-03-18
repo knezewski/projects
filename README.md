@@ -14,5 +14,6 @@ KinderLogger App - https://github.com/knezewski/kinderLogger
 
 ### Go projects:
 Health checker https://github.com/knezewski/healthChecker,<br />
-URL shortener https://github.com/knezewski/url_shortener
+URL shortener https://github.com/knezewski/url_shortener, <br />
+Image API Generator https://github.com/knezewski/imageAPIGenerator
 
