@@ -17,3 +17,7 @@ Health checker https://github.com/knezewski/healthChecker,<br />
 URL shortener https://github.com/knezewski/url_shortener, <br />
 Image API Generator https://github.com/knezewski/imageAPIGenerator
 
+### AI projects:
+Semantic search engine https://github.com/knezewski/semantic-search-engine-app
+
+
