@@ -20,4 +20,9 @@ Image API Generator https://github.com/knezewski/imageAPIGenerator
 ### AI projects:
 Semantic search engine https://github.com/knezewski/semantic-search-engine-app
 
+### Rust projects:
+A Rust duration parser and formatter with JavaScript
+[`ms`](https://github.com/vercel/ms)-compatible behavior.
+https://github.com/knezewski/ms-compat
+
 
